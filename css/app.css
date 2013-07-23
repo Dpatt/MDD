@@ -1,0 +1,77 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+a{
+	color:#e78b0a;	
+}
+
+.brand{
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.navbar-inner {
+margin-top: 20px;
+background-image: -moz-linear-gradient(top,#f9ae43,#e78b0a ) !important;
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f9ae43), to(#e78b0a)) !important;
+background-image: -webkit-linear-gradient(top, #f9ae43, #e78b0a) !important;
+background-image: -o-linear-gradient(top, #f9ae43,#e78b0a) !important;
+background-image: linear-gradient(to bottom, #f9ae43,#e78b0a) !important;
+border: none !important;
+}
+
+
+.navbar-inner a{
+	color: white !important;
+	text-shadow: none !important;
+}
+.navbar {
+  margin-top: 20px;
+}
+
+.shot .title {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+.stats {
+  background: #e78b0a;
+  /*opacity: 0.5;*/
+  text-align: center;
+  padding: 4px 0;
+}
+
+.stats .stat {
+  padding: 5px;
+}
+
+.shot_image {
+  width: 100%;
+}
+
+
+.shot_header {
+  margin-bottom: 20px;
+}
+
+.shot_header h1 {
+color: #e78b0a;
+  font-size: 24px;
+  line-height: 1;
+  margin-top: 5px;
+}
+
+.shot_header img {
+  height: 60px;
+}
+
+
+.comment img {
+  height: 60px;
+  width: 60px;
+}
